@@ -16,4 +16,4 @@ I am a Freelance Full Stack Developer based in Texas, crafting custom apps and s
 
 ### 📫 Let's Connect!
 * **Contact:** [https://exoworo.id/contact](https://exoworo.id/contact)
-On Github as kiripixels
+* **GitHub:** [Kiri](https://github.com/kiripixels)
